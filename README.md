@@ -13,8 +13,8 @@ Kalimat terakhir yang "Wokee gudang aman bosskuuhh" itu menandakan sesi run prog
 Percobaan run pertama: melibatkan fitur CEK dan UBAH stok (ada json.load dan json.dump)
 <img width="1397" height="396" alt="Screenshot 2026-10-08 230038" src="https://github.com/user-attachments/assets/f8aa3ac9-f639-4eb5-8924-7f0b76b6b701" />
 
-Percobaan run kedua: melibatkan fitur TAMBAH jenis barang (ada json.dump)
+Percobaan run ketiga: melibatkan fitur TAMBAH jenis barang (ada json.dump)
 <img width="1386" height="281" alt="Screenshot 2026-10-08 234817" src="https://github.com/user-attachments/assets/550a22b6-f199-4efd-9b5c-cff000fc804f" />
 
-Oiya, sistemnya ini bisa memberi output pengingat jika ada input pengguna yang tidak sesuai.
+Oiya, sistemnya ini bisa memberi output pengingat jika ada input pengguna yang tidak sesuai (percobaan run kedua)
 <img width="1407" height="470" alt="Screenshot 2026-10-08 230103" src="https://github.com/user-attachments/assets/30f2d080-fc12-4fb6-a874-a81865257ffb" />
